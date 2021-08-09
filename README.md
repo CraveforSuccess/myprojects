@@ -1,4 +1,4 @@
-# myprojetcs
+# myprojects
 I am learning java and currently making some new projects)_give me suggestions so that I can enhance my skills.
 public static void main(String[] args) {
 		// TODO Auto-generated method stub
